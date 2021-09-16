@@ -4,6 +4,8 @@ This github page contains the files that were created and used for the Master Th
 
 The conclusions drawn from the ABM model results can be read in the Master Thesis, which is also included on this page. The master thesis can be found at the TUDelft repository as well.
 
+Running the oython code requires the dataset downloadble via the following google drive link: https://drive.google.com/file/d/1u7LCjIJUlyGcK5XmhWo8AKRZ05VFQBd6/view?usp=sharing
+
 Running the ABM model requires NetLogo 6.2.0 program which is downloadable at https://ccl.northwestern.edu/netlogo/download.shtml. The kaartvnl.png file required for initializing the model.
 
 The research was executed in collaboration with the Dutch Ministry of Defence.
